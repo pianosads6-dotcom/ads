@@ -4,8 +4,8 @@
     "redirect_url": ""
   },
   "github": {
-    "username": "solodroid-developer",
-    "repository": "wallhub",
+    "username": "pianosads6-dotcom",
+    "repository": "wallpapr",
     "branch": "main"
   },
   "settings": {
@@ -103,4 +103,5 @@
       "native_ad_style_wallpaper_details": "large"
     }
   }
+
 }
