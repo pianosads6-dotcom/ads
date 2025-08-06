@@ -9,9 +9,9 @@
     "branch": "main"
   },
   "settings": {
-    "more_apps_url": "https://play.solodroid.co.id/store/apps/",
-    "privacy_policy_url": "https://example.com/privacy-policy.html",
-    "terms_conditions_url": "https://example.com/terms-conditions.html",
+    "more_apps_url": "https://play.google.com/store/apps/details?id=com.sahelistudioapp.wallpaper4k",
+    "privacy_policy_url": "https://sites.google.com/view/sahelistudioapp/home",
+    "terms_conditions_url": "https://sites.google.com/view/sahelistudioapp/homel",
     "email_help_feedback": "youremail@gmail.com",
     "show_wallpaper_name": false,
     "show_full_screen_wallpaper_details": false,
@@ -27,11 +27,11 @@
     "ads_unit_id": {
       "admob": {
         "publisher_id": "ca-app-pub-3940256099942544~3347511713",
-        "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-        "banner_id": "ca-app-pub-3940256099942544/9214589741",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-        "native_id": "ca-app-pub-3940256099942544/2247696110"
+        "app_open_id": "ca-app-pub-3940256099942544/",
+        "banner_id": "ca-app-pub-3940256099942544/",
+        "interstitial_id": "ca-app-pub-3940256099942544/",
+        "rewarded_id": "ca-app-pub-3940256099942544/",
+        "native_id": "ca-app-pub-3940256099942544/"
       },
       "google_ad_manager": {
         "app_open_id": "/6499/example/app-open",
@@ -105,6 +105,7 @@
   }
 
 }
+
 
 
 
